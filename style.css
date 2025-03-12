@@ -8,11 +8,12 @@
     height: 30px;
     background-color: red;
     border-radius: 50%;
+    position: fixed;
 }
 
 .main {
     background-color: #9cf5f54f;
-    /* border: 2px solid orange; */
+    border: 2px solid orange;
     width: 100%;
-    height: 500px;
+    height: 100vh;
 }
